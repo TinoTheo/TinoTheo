@@ -10,17 +10,14 @@ As a recent graduate from the Richfield Institute of Technology, I’ve built a 
 
 ### 🛠️ My Tech Toolbox:
 
-Languages: Python 🐍 | JavaScript ⚡
+- Languages: Python 🐍 | JavaScript ⚡
 
-Frameworks: Ember.js 📦 
+- Frameworks: Ember.js 📦 
 
 Tools: Git & GitHub 🛠️ | Visual Studio Code 👨‍💻
 
-### 🌟 What Drives Me:
-
-Solving complex problems through efficient code and creativity.
-Collaborating with other developers to build impactful projects.
-Continuously learning and exploring new technologies 🚀.
+### Let's get in touch
+- email: theotmuff@gmail.com
 
 
 ### 🤝 Let’s Collaborate!
